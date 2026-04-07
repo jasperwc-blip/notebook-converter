@@ -1,0 +1,4 @@
+nbconvert[webpdf]
+playwright
+ipywidgets
+IPython
