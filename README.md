@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasperwc-blip/notebook-converter/blob/main/Notebook_Converter.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jasperwc-blip/notebook-converter/blob/main/Notebook_Converter_Interface.ipynb)
 # Jupyter Notebook to PDF/HTML Converter (Colab Edition)
 
 A streamlined, browser-based utility designed to run in Google Colab. This tool provides a graphical interface to convert your `.ipynb` files into high-fidelity PDFs or HTML files using the `nbconvert` WebPDF engine.
